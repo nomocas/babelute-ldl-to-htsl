@@ -35,7 +35,7 @@
   "author": "Gilles Coomans",
   "license": "MIT",
   "dependencies": {
-    
+    "htsl-lexicon": "^0.2.4"
   },
   "devDependencies": {
     "assert": "^1.4.1",

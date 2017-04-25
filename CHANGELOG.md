@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+<a name="0.1.1"></a>
+## 0.1.1 (2017-04-25)
+
+
+### Bug Fixes
+
+* **doc:** update badges uri ([80110cc](https://github.com/nomocas/babelute-ldl-to-htsl/commit/80110cc))
+* **package:** add htsl dependency ([e19b152](https://github.com/nomocas/babelute-ldl-to-htsl/commit/e19b152))
+
+
+
 <a name="0.1.0"></a>
 # 0.1.0 (2017-04-16)
 

@@ -1,6 +1,6 @@
 {
   "name": "babelute-ldl-to-htsl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Babelute Lexicon Definition Language to HTSL.",
   "main": "dist/bundles/index.js",
   "module": "dist/bundles/index.mjs",

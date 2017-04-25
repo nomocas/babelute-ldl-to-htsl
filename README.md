@@ -1,12 +1,12 @@
 # babelute-ldl-to-htsl
 
-[![Travis branch](https://img.shields.io/travis/nomocas/babelute-ldl-to-html/master.svg)](https://travis-ci.org/nomocas/babelute-ldl-to-html)
-[![bitHound Overall Score](https://www.bithound.io/github/nomocas/babelute-ldl-to-html/badges/score.svg)](https://www.bithound.io/github/nomocas/babelute-ldl-to-html)
-[![npm](https://img.shields.io/npm/v/babelute-ldl-to-html.svg)]()
-[![npm-downloads](https://img.shields.io/npm/dm/babelute-ldl-to-html.svg)]()
-[![licence](https://img.shields.io/npm/l/babelute-ldl-to-html.svg)](https://spdx.org/licenses/MIT)
-[![dependecies](https://img.shields.io/david/nomocas/babelute-ldl-to-html.svg)]()
-[![dev-dependencies](https://img.shields.io/david/dev/nomocas/babelute-ldl-to-html.svg)]()
+[![Travis branch](https://img.shields.io/travis/nomocas/babelute-ldl-to-htsl/master.svg)](https://travis-ci.org/nomocas/babelute-ldl-to-htsl)
+[![bitHound Overall Score](https://www.bithound.io/github/nomocas/babelute-ldl-to-htsl/badges/score.svg)](https://www.bithound.io/github/nomocas/babelute-ldl-to-htsl)
+[![npm](https://img.shields.io/npm/v/babelute-ldl-to-htsl.svg)]()
+[![npm-downloads](https://img.shields.io/npm/dm/babelute-ldl-to-htsl.svg)]()
+[![licence](https://img.shields.io/npm/l/babelute-ldl-to-htsl.svg)](https://spdx.org/licenses/MIT)
+[![dependecies](https://img.shields.io/david/nomocas/babelute-ldl-to-htsl.svg)]()
+[![dev-dependencies](https://img.shields.io/david/dev/nomocas/babelute-ldl-to-htsl.svg)]()
 [![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
 
 
